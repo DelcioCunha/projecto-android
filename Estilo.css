@@ -4,7 +4,7 @@
 
 @font-face {
     font-family: 'Android';
-    src: url('pacote-projeto-d010/fontes/idroid.otf') format('opentype');
+    src: url('fontes/idroid.otf') format('opentype');
 }
 
 
@@ -43,6 +43,7 @@ header{
     text-align: center;
     padding-top: 40px;
     padding-left: 40px;
+    padding-right: 40px;
 }
 
 header > h1{
